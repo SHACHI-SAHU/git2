@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.vertapp.app1 -DartifactId=app1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
